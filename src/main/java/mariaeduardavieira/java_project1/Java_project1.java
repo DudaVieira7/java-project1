@@ -27,4 +27,5 @@ public class Java_project1 {
         var age = scanner.nextInt();
         System.out.printf("Hello %s your age is %s \n", name, age);
     }
+    
 }
