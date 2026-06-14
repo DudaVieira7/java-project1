@@ -11,6 +11,6 @@ package mariaeduardavieira.java_project1;
 public class Java_project1 {
 
     public static void main(String[] args) {
-        System.out.println("Aqui quem fala é a Duda Hello World!!");
+        System.out.println("Mudei o texto");
     }
 }
