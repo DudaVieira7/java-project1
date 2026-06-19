@@ -37,6 +37,6 @@ public class exercicio_06{
         
         
         System.out.printf("%s seu imc e de : %.2f \n", name ,imc);
-      scanner.close();
+        scanner.close();
     }
 }
