@@ -7,8 +7,9 @@ public class Main{
         
         Pessoa p = new Pessoa();
         p.setNome("Maria");
-        p.setIdade(-20);
+        p.setIdade(20);
         
         System.out.println(p.getIdade());
+        System.out.println("A pessoa se chama: " + p.getNome() +" e tem " + p.getIdade() + " anos");
     }
 }
