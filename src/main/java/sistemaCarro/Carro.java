@@ -102,6 +102,14 @@ public class Carro{
             System.out.println("Imposível trocar a marcha.");
             return; 
         }
+        if(velocimetro >= 1 || velocimetro <= 40){
+            System.out.println("O carro virou para a :"+ direcao);
+            
+        }else{
+            System.out.println("Não é seguro virar! Sua velocidade atual é de \n" + this.velocimetro + " km/h. Só é permitido virar entre 1km/h e 40km/h.");
+        }
     }
+    
+    public
 
 }
