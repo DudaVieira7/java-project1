@@ -67,6 +67,7 @@ public class Carro{
             return;
         }
         this.velocimetro -= 1;
+        System.out.println("A velocidade do carro atual é de :" + this.velocimetro + "km/h");
         
     }
     
@@ -99,10 +100,10 @@ public class Carro{
     }
     public void virarCarro(String direcao){
         if(ligado == false){ 
-            System.out.println("Imposível trocar a marcha.");
+            System.out.println("Impossível virar com o carro desligado.");
             return; 
         }
-        if(velocimetro >= 1 || velocimetro <= 40){
+        if(velocimetro >= 1 && velocimetro <= 40){
             System.out.println("O carro virou para a :"+ direcao);
             
         }else{
@@ -110,6 +111,13 @@ public class Carro{
         }
     }
     
-    public
-
+   public void verifcarVelocidade(){
+       if(ligado == false){System.out.println("O carro está desligado a velocidade é de 0 Km/h"); 
+       return;
+       }
+       System.out.println("A velocidade do carro é de:"+ this.velocimetro + "km/h");
+   }
+   public int getmarcha(){
+       return marcha;
+   }
 }
