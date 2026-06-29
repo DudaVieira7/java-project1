@@ -1,7 +1,7 @@
 package herancaPolimorfismo;
 
 
-public class Manager extends Employee{  //( extends)-> junta características de outra classe.
+public non-sealed class Manager extends Employee{  //( extends)-> junta características de outra classe.
     private String login;
     private String password;
     private double commision;

@@ -3,7 +3,7 @@ package herancaPolimorfismo;
 
 public class Main{
     public static void main(String[] args) {
-        Employee employee = new Employee();
+       
         Manager manager = new Manager();
         manager.setName("Maria");
         manager.setLogin("maria123");

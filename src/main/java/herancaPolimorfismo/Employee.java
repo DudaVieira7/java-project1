@@ -1,7 +1,7 @@
 package herancaPolimorfismo;
 
 
-public class Employee{
+public sealed abstract class Employee permits Manager, SalesPerson{     // uma classe abstrata não pode ser instância
     
     private String code;
     private String name;
