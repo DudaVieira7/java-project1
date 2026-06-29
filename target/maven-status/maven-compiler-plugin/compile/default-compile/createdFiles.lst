@@ -1,8 +1,10 @@
 operadores_aritmeticos.class
 exercicios\exercicio_05.class
 operadores_logicos.class
+herancaPolimorfismo\Main.class
 extruturas_de_controle\condicionais.class
 sistemaBancario\ContaBancaria.class
+herancaPolimorfismo\SalesPerson.class
 sistemaBanhos\MaquinaBanho.class
 sistemaBanhos\Main.class
 exercicios\desafio_01.class
@@ -20,6 +22,8 @@ exercicios\exercicio_01.class
 sistemaBancario\Main.class
 mariaeduardavieira\java_project1\Main.class
 sistemaBanhos\Pet.class
+herancaPolimorfismo\Employee.class
+herancaPolimorfismo\Manager.class
 exercicios\exercicio_02.class
 sistemaCarro\Carro.class
 exercicios\exercicio_04.class
