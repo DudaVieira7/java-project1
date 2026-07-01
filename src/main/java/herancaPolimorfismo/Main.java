@@ -6,6 +6,8 @@ public class Main{
       printEmployee(new Manager());
       printEmployee(new SalesPerson());
     }
+    
+    
     public static void printEmployee(Employee employee){
         
         System.out.printf(("==============%s=================\n"),employee.getClass().getCanonicalName());
@@ -30,7 +32,7 @@ public class Main{
                 System.out.println(manager.getPassword());
             }
             case SalesPerson salesperson ->{
-                salesperson.setCode("123");
+                salesperson.setCode("457");
                 salesperson.setName("João");
                 salesperson.setSalary(2800);
                 salesperson.setPercentPerSold(25);
