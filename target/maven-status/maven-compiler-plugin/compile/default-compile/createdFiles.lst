@@ -8,6 +8,7 @@ sistemaRelogio\Clock.class
 herancaPolimorfismo\SalesPerson.class
 sistemaBanhos\MaquinaBanho.class
 sistemaBanhos\Main.class
+sistemaCinema\Main.class
 exercicios\desafio_01.class
 extruturas_de_controle\switch_case.class
 sistemaRelogio\USClock.class
@@ -24,12 +25,15 @@ sistemaCarro\Main.class
 mariaeduardavieira\java_project1\Java_project1.class
 exercicios\exercicio_01.class
 sistemaBancario\Main.class
+sistemaCinema\Ingresso.class
 mariaeduardavieira\java_project1\Main.class
 sistemaBanhos\Pet.class
 herancaPolimorfismo\Employee.class
 herancaPolimorfismo\Manager.class
+sistemaCinema\IngressoFamilia.class
 exercicios\exercicio_02.class
 sistemaCarro\Carro.class
 exercicios\exercicio_04.class
 exercicios\exercicio_07.class
+sistemaCinema\MeiaEntrada.class
 sistemaBancario\Cliente.class

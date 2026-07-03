@@ -8,6 +8,6 @@ public final class MeiaEntrada extends Ingresso{
     
     @Override                       // essa parte do Override realiza a atribuição para o método abstrato da  classe mãe.
     public double valorReal(){
-        return valorReal()/ 2;      // divide o valor por 2 para pegar o valor da meia entrada.
+        return getValor() / 2;     // divide o valor por 2 para pegar o valor da meia entrada.
     }
 }
