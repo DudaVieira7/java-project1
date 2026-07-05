@@ -13,11 +13,14 @@ exercicios\desafio_01.class
 extruturas_de_controle\switch_case.class
 sistemaRelogio\USClock.class
 sistemaRelogio\BRLClock.class
+sistemaEmpresa\Usuario.class
 operadores_bitwise.class
 extruturas_de_controle\repeticao_while.class
+sistemaEmpresa\Main.class
 extruturas_de_controle\repeticao_for.class
 exercicios\exercicio_03.class
 exercicios\exercicio_08.class
+sistemaEmpresa\Atendente.class
 sistemaRelogio\Main.class
 mariaeduardavieira\java_project1\Pessoa.class
 exercicios\exercicio_06.class
@@ -36,4 +39,6 @@ sistemaCarro\Carro.class
 exercicios\exercicio_04.class
 exercicios\exercicio_07.class
 sistemaCinema\MeiaEntrada.class
+sistemaEmpresa\Vendedor.class
+sistemaEmpresa\Gerente.class
 sistemaBancario\Cliente.class

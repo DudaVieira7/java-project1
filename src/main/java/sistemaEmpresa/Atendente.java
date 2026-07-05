@@ -50,5 +50,8 @@ public final class Atendente extends Usuario{
             System.out.println("Usuário deslogado ou caixa fechado");
         }
     }
+    public double getValorEmCaixa(){
+        return this.valorEmCaixa;
+    }
     
 }
