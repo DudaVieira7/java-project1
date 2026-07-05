@@ -24,7 +24,7 @@ public final class Atendente extends Usuario{
     
     public void setCaixaAberto(boolean aberto){
         
-        if(isLogado() && this.caixaAberto == false){
+        if(isLogado() && !this.caixaAberto){
             this.caixaAberto = true;
             System.out.println("O caixa foi aberto!");
         }else{
@@ -33,7 +33,7 @@ public final class Atendente extends Usuario{
     }
      public void setCaixaFechado(boolean aberto){
         
-        if(isLogado() && this.caixaAberto == true){
+        if(isLogado() && this.caixaAberto){
             this.caixaAberto = false;
             System.out.println("O caixa foi fechado!");
         }else{
