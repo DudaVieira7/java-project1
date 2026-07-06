@@ -14,8 +14,11 @@ extruturas_de_controle\switch_case.class
 sistemaRelogio\USClock.class
 sistemaRelogio\BRLClock.class
 sistemaEmpresa\Usuario.class
+InterfacesLambda\Main$1.class
+InterfacesLambda\VideoPlayer.class
 operadores_bitwise.class
 extruturas_de_controle\repeticao_while.class
+InterfacesLambda\MusicPlayer.class
 sistemaEmpresa\Main.class
 extruturas_de_controle\repeticao_for.class
 exercicios\exercicio_03.class
@@ -30,6 +33,7 @@ exercicios\exercicio_01.class
 sistemaBancario\Main.class
 sistemaCinema\Ingresso.class
 mariaeduardavieira\java_project1\Main.class
+InterfacesLambda\Main.class
 sistemaBanhos\Pet.class
 herancaPolimorfismo\Employee.class
 herancaPolimorfismo\Manager.class
