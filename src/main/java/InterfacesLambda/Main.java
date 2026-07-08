@@ -4,29 +4,19 @@ package InterfacesLambda;
 public class Main{
     public static void main(String[] args) {
         
-        var musicPlayer = new MusicPlayer(){
+       Computer musicPlayer = new Computer();
         
-            @Override
-            public void playMusic(){
-                System.out.println("Tocando a música!");
-            
-            }
-
-            @Override
-            public void pauseMusic(){
-            
-            }
-
-            @Override
-            public void stopMusic(){
-            
-            }
-        };
+        runMusic(musicPlayer);
+        runVideo(musicPlayer);
         
+    }
+    
+    public static void runVideo(VideoPlayer videoPlayer){
+        videoPlayer.playVideo();   
+    }
+    
+    public static void runMusic(MusicPlayer musicPlayer){
         musicPlayer.playMusic();
-        System.out.println(musicPlayer.getClass());
-        System.out.println("1".getClass());
-        
     }
 
 }
