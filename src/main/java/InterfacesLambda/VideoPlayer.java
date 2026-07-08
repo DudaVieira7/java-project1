@@ -11,9 +11,9 @@ package InterfacesLambda;
 public interface VideoPlayer {
     
       
-    void playVideo();
+    void playVideo();           // foi criado mas ainda não foi implementado (é uma parte abstrata)
     
-    void pauseVideo();
+    void pauseVideo();          // só meio que faz a declaração para depois implementar na main como um método abstrato.
     
     void stopVideo();
     
