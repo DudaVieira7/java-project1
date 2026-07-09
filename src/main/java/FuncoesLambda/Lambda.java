@@ -29,11 +29,21 @@ public class Lambda {
         
         // fazendo o mesmo procedimento com o uso das funções lambda:
         
+        // função lambda você passa os parametros e chama a função lambda exemplo:  nomeInterface nomeMetodo = (parametros) -> função lambda
+        
+        
         OperacaoMatematica somaL = (a,b) -> a + b ;
+        
+        
         
         System.out.println(somaL.calcular(5, 6));
         
         
+        
+        OperacaoMatematica multiplicacao = (a,b) -> a * b;
+        
+         System.out.println(multiplicacao.calcular(5, 7));
+          System.out.println("Multiplicação com função lambda: " + multiplicacao.calcular(5, 7));
     }
     
 }
