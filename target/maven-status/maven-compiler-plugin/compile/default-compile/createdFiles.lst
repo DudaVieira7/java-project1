@@ -54,4 +54,6 @@ Interface\Animal.class
 exercicios\exercicio_04.class
 exercicios\exercicio_07.class
 sistemaCinema\MeiaEntrada.class
+FuncoesLambda\Lambda$2.class
 sistemaEmpresa\Vendedor.class
+FuncoesLambda\ManipuladorString.class
