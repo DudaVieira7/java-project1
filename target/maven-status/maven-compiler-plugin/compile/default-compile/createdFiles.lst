@@ -30,12 +30,14 @@ sistemaBanhos\Pet.class
 ex1_interfaces\SMS.class
 InterfacesLambda\Smartphone.class
 exercicios\exercicio_02.class
+ex3_interfaces\Square.class
 sistemaCarro\Carro.class
 sistemaEmpresa\Gerente.class
 sistemaBancario\Cliente.class
 herancaPolimorfismo\Main.class
 Interface\Gato.class
 sistemaBancario\ContaBancaria.class
+ex3_interfaces\Rectangle.class
 sistemaBanhos\MaquinaBanho.class
 sistemaBanhos\Main.class
 Interface\Cachorro.class
@@ -46,9 +48,12 @@ InterfacesLambda\Computer.class
 FuncoesLambda\OperacaoMatematica.class
 InterfacesLambda\MusicPlayer.class
 exercicios\exercicio_03.class
+ex3_interfaces\Circle.class
 sistemaRelogio\Main.class
 mariaeduardavieira\java_project1\Pessoa.class
+ex3_interfaces\GeometricForm.class
 sistemaCarro\Main.class
+ex3_interfaces\Main.class
 mariaeduardavieira\java_project1\Java_project1.class
 exercicios\exercicio_01.class
 sistemaBancario\Main.class
