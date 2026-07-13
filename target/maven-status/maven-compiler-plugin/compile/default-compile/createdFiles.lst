@@ -32,6 +32,7 @@ InterfacesLambda\Main.class
 sistemaBanhos\Pet.class
 ex1_interfaces\SMS.class
 InterfacesLambda\Smartphone.class
+Listas_Arrays\Main.class
 exercicios\exercicio_02.class
 ex3_interfaces\Square.class
 sistemaCarro\Carro.class
@@ -72,6 +73,7 @@ Interface\Animal.class
 exercicios\exercicio_04.class
 exercicios\exercicio_07.class
 sistemaCinema\MeiaEntrada.class
+Listas_Arrays\User.class
 FuncoesLambda\Lambda$2.class
 sistemaEmpresa\Vendedor.class
 FuncoesLambda\ManipuladorString.class
