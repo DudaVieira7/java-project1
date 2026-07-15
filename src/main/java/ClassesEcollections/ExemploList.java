@@ -17,7 +17,7 @@ public class ExemploList{
         }
         
         System.out.println("----------------------------------------");
-        pessoas.add(a); // coloca outra vez a na lista
+        pessoas.add(a);     // coloca outra vez a na lista (se refere duas vezes ao mesmo obj) diferente do set que é único.
         
         for(Pessoa pessoa: pessoas){
             System.out.println(pessoa.getName());
