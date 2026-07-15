@@ -15,9 +15,12 @@ public class ExemploSet{
             System.out.println(pessoa.getName());
         }
         
-        // tentando adicionar joao novamente a lista;
+        // tentando adicionar joao novamente a lista ;
+       
         
         System.out.println("-----------------------------");
+        
+        
         
         pessoas.add(joao);
         
