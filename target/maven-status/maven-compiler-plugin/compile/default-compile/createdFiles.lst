@@ -12,6 +12,7 @@ exercicios\desafio_01.class
 extruturas_de_controle\switch_case.class
 Interface\Main.class
 sistemaRelogio\USClock.class
+ClassesEcollections\Pessoa.class
 sistemaRelogio\BRLClock.class
 sistemaEmpresa\Usuario.class
 ex2_interfaces\Alimentacao.class
@@ -21,6 +22,7 @@ extruturas_de_controle\repeticao_for.class
 exercicios\exercicio_08.class
 FuncoesLambda\Lambda.class
 sistemaEmpresa\Atendente.class
+ClassesEcollections\ExemploList.class
 ex1_interfaces\RedeSocial.class
 FuncoesLambda\Lambda$1.class
 ex1_interfaces\Email.class
